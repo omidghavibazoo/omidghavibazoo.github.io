@@ -8,10 +8,8 @@ redirect_from:
 ---
 
 ## Awards ##
-* Honor of Exceptionally Outstanding Undergraduate Student (2011)
-  * Invited to continue master studies without any nationwide entrance exam in the field of Actuarial Science, Allameh Tabataba'i University, Tehran, Iran
-* First Top Ranked Undergraduate Student (2011)
-  * Having the highest cumulative Grade Points Average (GPA) among all peers, (72 students), Allameh Tabataba'i University, Tehran, Iran
+* **Honor of Exceptionally Outstanding Undergraduate Student (2011):** Invited to continue master studies without any nationwide entrance exam in the field of Actuarial Science, Allameh Tabataba'i University, Tehran, Iran
+* **First Top Ranked Undergraduate Student (2011):** Having the highest cumulative Grade Points Average (GPA) among all peers, (72 students), Allameh Tabataba'i University, Tehran, Iran
 
 ## Skills
 * Software and programming skills
