@@ -15,7 +15,7 @@ redirect_from:
 **Software and programming skills:**
 * Software R (including packages: AER, glmnet, survey, tree, randomForest , gbm, kknn, hdm, dplyr, tidyr, readr, lavaan)
 * Python (including libraries: SciPy, Numpy, Pandas, Matplotlib, PyTorch, TensorFlow)
-* Gauss, Matlab, MS Office, VBA, Pajek, MySQL, Git and Github, LATEX
+* Gauss, MATLAB, MS Office, VBA, Pajek, MySQL, Git and Github, LATEX
 
 **Statistical techniques:** 
 * Regressions (linear, non-linear, continuous and categorical variables), causal inference, structural equation models, resampling and forecasting, time series analysis, machine learning techniques (lasso, ridge, random forest, elastic net), high-dimensional data analysis
