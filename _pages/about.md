@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent PhD graduate in Finance from [University of St. Gallen](https://www.unisg.ch/en/), Switzerland. Before joining University of St. Gallen in 2017, I was an Actuary at Mellat Insurance, Iran.
+I am a recent PhD graduate in Finance from the [University of St. Gallen (HSG)](https://www.unisg.ch/en/), Switzerland. Before joining the University of St. Gallen in 2017, I was an Actuary at Mellat Insurance, Iran.
 
 Selected publications
 ======
