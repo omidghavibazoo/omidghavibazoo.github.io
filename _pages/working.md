@@ -7,17 +7,5 @@ redirect_from:
   - /working.html
 ---
 
-## Locations of key files/directories
-
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* M Eling and O Ghavibazoo (2019), Research on long-term care insurance: Status quo and directions for future research, <em>The Geneva Papers on Risk and Insurance-Issues and Practice</em> 44, 303-356.
+*  M Eling, O Ghavibazoo, K Hanewald (2021), Willingness to take financial risks and insurance holdings: A European survey, <em>Journal of Behavioral and Experimental Economics </em> 95, 1-15
