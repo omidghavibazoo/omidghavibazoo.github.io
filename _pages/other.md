@@ -17,8 +17,6 @@ redirect_from:
 * Allameh Tabataba'i University (ATU), Tehran, Iran (2009-2010)
   * Tutoring Microeconomics (Undergraduate), Fall semester
 
-
-
 ## Referee services ##
- * Insurance: Mathematics and Economics; Journal of Risk and Insurance; ASTIN Bulletin: The Journal of the International Actuarial Association; European Journal of Operational Research; Scandinavian Actuarial Journal; Eurasian Business Review, Health and Social Care in the Community
+ Insurance: Mathematics and Economics; Journal of Risk and Insurance; ASTIN Bulletin: The Journal of the International Actuarial Association; European Journal of Operational Research; Scandinavian Actuarial Journal; Eurasian Business Review, Health and Social Care in the Community
 
