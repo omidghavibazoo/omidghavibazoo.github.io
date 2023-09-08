@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /md/
   - /awards-skills.html
----S
+---
 
 ## Awards ##
 * Honor of Exceptionally Outstanding Undergraduate Student (2011)
