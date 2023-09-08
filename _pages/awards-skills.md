@@ -4,7 +4,7 @@ title: "AWARDS/SKILLS"
 author_profile: true
 redirect_from: 
   - /md/
-  - /award.html
+  - /awards-skills.html
 ---S
 
 ## Awards ##
