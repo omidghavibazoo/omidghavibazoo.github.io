@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "PUBLICATIONS"
     url: /publications/
 
-  - title: "Awards/Certificates"
-    url: /awards/    
+  - title: "ACADEMIC ACTIVITIES"
+    url: /academic-activities/
 
-  - title: "Other academic acvitivites"
-    url: /other/    
-      
+  - title: "AWARDS/SKILLS"
+    url: /awards-skills/    
+
   - title: "CV"
     url: /cv/
     
-  - title: "Extracurricular"
+  - title: "EXTRACURRICULAR"
     url: /extra/

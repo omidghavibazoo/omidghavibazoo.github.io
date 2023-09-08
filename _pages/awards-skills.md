@@ -1,6 +1,6 @@
 ---
-permalink: /awards/
-title: "Awards/Certificates"
+permalink: /awards-skills/
+title: "AWARDS/SKILLS"
 author_profile: true
 redirect_from: 
   - /md/

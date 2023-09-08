@@ -1,6 +1,6 @@
 ---
-permalink: /other/
-title: "Other academic activities"
+permalink: /academic-activites/
+title: "ACADEMIC ACTIVITIES"
 author_profile: true
 redirect_from: 
   - /md/

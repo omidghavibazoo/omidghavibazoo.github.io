@@ -16,4 +16,4 @@ redirect_from:
 * O Ghavibazoo (2022), [The interplay between longevity and morbidity on optimal choice of long-term care insurance](https://www.zbw.eu/econis-archiv/bitstream/11159/533989/1/EBP089893034_0.pdf).
 
 ## Non peer-reviewed ##
-* O Ghavibazoo and Z Tabatabae (2013), Designing a bonus-malus system for third party liability auto insurance in Iran, Journal of Market and Investment, 39 (In Farsi)
+* O Ghavibazoo and Z Tabatabae (2013), Designing a bonus-malus system for third party liability auto insurance in Iran, <em>Journal of Market and Investment</em>, 39 (In Farsi).
