@@ -1,5 +1,5 @@
 ---
-permalink: /academic-activites/
+permalink: /academic-activities/
 title: "ACADEMIC ACTIVITIES"
 author_profile: true
 redirect_from: 
