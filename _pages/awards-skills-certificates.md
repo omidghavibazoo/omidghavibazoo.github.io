@@ -1,10 +1,10 @@
 ---
-permalink: /awards-skills/
-title: "AWARDS/SKILLS"
+permalink: /awards-skills-certificates/
+title: "AWARDS/SKILLS/CERTIFICATES"
 author_profile: true
 redirect_from: 
   - /md/
-  - /awards-skills.html
+  - /awards-skills-certificates.html
 ---
 
 ## Awards ##
