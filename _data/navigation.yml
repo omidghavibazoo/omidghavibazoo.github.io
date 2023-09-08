@@ -3,20 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Working papers"
-    url: /working/    
+  - title: "Awards/Certificates"
+    url: /awards/    
 
   - title: "Other academic acvitivites"
     url: /other/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+      
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Extracurricular"
+    url: /extra/
