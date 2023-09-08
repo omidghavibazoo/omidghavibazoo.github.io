@@ -4,7 +4,6 @@ title: "EXTRACURRICULAR"
 author_profile: true
 redirect_from: 
   - /md/
-  - /extracurricular.html
 ---
 
 ## Activities ##
