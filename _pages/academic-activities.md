@@ -7,7 +7,12 @@ redirect_from:
   - /other.html
 ---
 ## Academic presentations ##
-**2023:** Western Risk and Insurance Association (WRIA) (Oceanside, USA); **2022:** American Risk and Insurance Association (ARIA) Annual Meeting (Virtual); GPEF PhD day (45 minutes Job-Talk format) at the University of St. Gallen; **2021:** Ph.D. in Finance Seminar (45 minutes Job-Talk format) at University of St. Gallen; **2020:** World Risk and Insurance Economics Congress (WRIEC) (Virtual); **2019:** Research Seminar at Institute of Insurance Economics (University of St. Gallen); Ph.D. in Finance Seminar (45 minutes Job-Talk format) at University of St. Gallen; International Congress on Insurance: Mathematics and Economics (IME) (Munich, Gemrnay); **2015:** World Risk and Insurance Economics Congress (WRIEC) (Munich, Germany); Investigating Advanced Actuarial Methods Conference, (Tehran, Iran)
+* **2023:** Western Risk and Insurance Association (WRIA) (Oceanside, USA)
+* **2022:** American Risk and Insurance Association (ARIA) Annual Meeting (Virtual); GPEF PhD day (45 minutes Job-Talk format) at the University of St. Gallen
+* **2021:** Ph.D. in Finance Seminar (45 minutes Job-Talk format) at University of St. Gallen
+* **2020:** World Risk and Insurance Economics Congress (WRIEC) (Virtual);
+* **2019:** Research Seminar at Institute of Insurance Economics (University of St. Gallen); Ph.D. in Finance Seminar (45 minutes Job-Talk format) at University of St. Gallen; International Congress on Insurance: Mathematics and Economics (IME) (Munich, Gemrnay);
+* **2015:** World Risk and Insurance Economics Congress (WRIEC) (Munich, Germany); Investigating Advanced Actuarial Methods Conference, (Tehran, Iran)
 
 ## Teaching assistant ##
 **University of St. Gallen (HSG),** St. Gallen, Switzerland (2017-2022)

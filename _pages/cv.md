@@ -19,5 +19,5 @@ You can download my full CV [here](https://drive.google.com/file/d/1SFwbMOjlNzP8
 * Project Manager and Research Associate, University of St. Gallen, St. Gallen, Switzerland (2017-2023)
 * Actuary, Mellat Insurance Co., Tehran, Iran (2013-2017)
 * Engineering Insurance Underwriter, Parsian Insurance Co., Tehran, Iran (2011)
-* Life Insurance Intern, Saman Insurance Co, Tehran, Iran (2009)
+* Life Insurance Intern, Saman Insurance Co., Tehran, Iran (2009)
 
