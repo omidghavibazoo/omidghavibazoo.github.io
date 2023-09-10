@@ -10,8 +10,9 @@ redirect_from:
 
 I am a recent PhD graduate in Finance from the [University of St. Gallen (HSG)](https://www.unisg.ch/en/), Switzerland. Before joining the University of St. Gallen in 2017, I was an Actuary at Mellat Insurance, Iran.
 
+My research interests lies in the fields of finance, actuarial science, risk management and behavioral economics. I have been involved in multiple research projects that required actuarial and financial modeling using statistical techniques and data analysis.  
 
-You can download my full CV [here](https://drive.google.com/file/d/1SFwbMOjlNzP8MalfFQQAW_lEGNb9l1Fh/view?usp=sharing).
+You can find my short CV below. You can download my full CV [here](https://drive.google.com/file/d/1SFwbMOjlNzP8MalfFQQAW_lEGNb9l1Fh/view?usp=sharing).
 ## Short CV ##  
 ### Education ###
 * Ph.D. Finance, University of St. Gallen, St. Gallen, Switzerland (2017-2022)
