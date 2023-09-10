@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HOME"
+title                    : "Omid Ghavibazoo"
 title_separator          : "-"
 name                     : &name "Home"
 description              : &description "personal description"
