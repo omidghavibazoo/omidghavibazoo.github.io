@@ -12,7 +12,7 @@ I am a recent PhD graduate in Finance from the [University of St. Gallen (HSG)](
 
 My research interests lies in the fields of finance, actuarial science, risk management and behavioral economics. I have been involved in multiple research projects that required actuarial and financial modeling using statistical techniques and data analysis.  
 
-You can find my short CV below or download my full CV [here](http://omidghavibazoo.github.io/files/CV-Ghavibazoo.pdf).
+You can find my short CV below or **download my full CV** [here](http://omidghavibazoo.github.io/files/CV-Ghavibazoo.pdf).
 ## Short CV ##  
 ### Education ###
 * Ph.D. Finance, University of St. Gallen, St. Gallen, Switzerland (2017-2022)
