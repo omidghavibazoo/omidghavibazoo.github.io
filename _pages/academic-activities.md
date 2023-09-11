@@ -1,6 +1,6 @@
 ---
 permalink: /academic-activities/
-title: "ACADEMIC ACTIVITIES"
+title: "Academic Activities"
 author_profile: true
 redirect_from: 
   - /md/

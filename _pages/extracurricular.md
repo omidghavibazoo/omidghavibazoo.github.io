@@ -1,6 +1,6 @@
 ---
 permalink: /extracurricular/
-title: "EXTRACURRICULAR"
+title: "Extracurricular"
 author_profile: true
 redirect_from: 
   - /md/
