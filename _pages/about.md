@@ -15,7 +15,7 @@ Empirical research in intersection of **finance, actuarial science and risk mana
 
 ## Fields of research interest ## 
 * **Digitalization** (machine learning, big data and AI)
-* **Extreme loss modeling** (financial market and insurance)
+* **Extreme loss modeling** (financial markets and insurance)
 * **Health care** (longevity and health insurance)
 
 
