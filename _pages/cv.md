@@ -17,7 +17,8 @@ You can download my full CV [here](http://omidghavibazoo.github.io/files/CV-Ghav
 * **B.Sc. Insurance Management,** Allameh Tabataba'i University, Terhan, Iran (2007-2011)
 
 ### Work experience ###
+* **Research Associate,** Global Risk Institute, Toronto, Canada (2023-Present)
 * **Project Manager and Research Associate,** University of St. Gallen, St. Gallen, Switzerland (2017-2023)
-* **Actuary,** Mellat Insurance Co., Tehran, Iran (2013-2017)
+* **Actuarial Analyst,** Mellat Insurance Co., Tehran, Iran (2013-2017)
 * **Engineering Insurance Underwriter,** Parsian Insurance Co., Tehran, Iran (2011)
 * **Life Insurance Intern,** Saman Insurance Co., Tehran, Iran (2009)
