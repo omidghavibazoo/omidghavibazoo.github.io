@@ -9,6 +9,7 @@ redirect_from:
 
 ## Activities ##
 **Data Analytics** Paradise Charity Group (2023-Presnet)
+
 **Board Member,** Marketing and Social Media (2020-2021): DocNet - Doctoral Network at the University of St. Gallen
 
 
