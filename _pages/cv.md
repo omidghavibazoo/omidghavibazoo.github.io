@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-You can download my full CV [here](http://omidghavibazoo.github.io/files/CV-Ghavibazoo.pdf).
+
 ## Short CV ##  
 
 ### Education ###
